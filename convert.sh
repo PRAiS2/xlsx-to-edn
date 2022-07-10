@@ -1,5 +1,4 @@
 #!/bin/bash
-
 set -eu
 FILE=$1
 NB_HOSP=$2
